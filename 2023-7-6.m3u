@@ -365,9 +365,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://upload.112114.xyz/logo/江频道.png" group-title="卫视",广东珠江
-http://183.238.66.1:9090/live/1437.m3u8?t=sR29weA3vx5dfXDK4B18Mw==&u=freeuser&cid=1332&d=b9fe6157aedccb24&sid=dBMOM++R+TaL6uLCmxb6FQ==&r=20230808124321&e=20230808184326&nc=AVRlKRMpcMbc&a=7&v=2&starttime=&endtime=&isSuma=1&hlsSessionID=17024452686080022761&srchost=172.16.149.181:8060&gid=TS75qKsvB4R8Tnny6b9lRg%3D%3D
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
