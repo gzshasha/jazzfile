@@ -13,8 +13,6 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000182/ind
 http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://live.cooltv.top/tv/aishang.php?id=dfwshd
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",新闻综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8?
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",新闻综合
@@ -142,14 +140,8 @@ https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 #EXTINF:-1,tvg-id="BesTV-电影" tvg-name="BesTV-电影" tvg-logo="https://epg.112114.xyz/logo/BESTV电影.png" group-title="上海",BesTV-电影
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://epg.112114.xyz/logo/东方购物.png" group-title="上海",东方购物
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001039/index.m3u8?
-#EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://epg.112114.xyz/logo/东方购物.png" group-title="上海",东方购物
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001040/index.m3u8?
 
 
-#EXTINF:-1,tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="上海",陶瓷高清
-https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="上海",足球高清
 https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
@@ -192,11 +184,6 @@ http://222.65.21.143:4022/udp/239.45.1.11:5140
 http://222.65.21.143:4022/udp/239.45.1.108:5140
 #EXTINF:-1,tvg-id="百事通4K电影" tvg-name="百事通4K电影" tvg-logo="https://epg.112114.xyz/logo/百事通4K电影.png" group-title="上海",百事通4K电影
 http://222.65.21.143:4022/udp/239.45.3.107:5140
-#EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://epg.112114.xyz/logo/东方购物.png" group-title="上海",东方购物
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001039/index.m3u8?
-#EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://epg.112114.xyz/logo/东方购物.png" group-title="上海",东方购物
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001040/index.m3u8?
-
 
 
 
@@ -456,8 +443,6 @@ http://sc2022.stream-link.org/tv2306.php?id=h09
 
 #EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="台湾",東森新聞
 http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="台湾",中天新聞
-http://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="台湾",華視新聞
 http://sc2022.stream-link.org/tv2306.php?id=t04
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="台湾",中視新聞
@@ -486,8 +471,6 @@ http://sc2022.stream-link.org/tv2306.php?id=t12
 http://sc2022.stream-link.org/tv2306.php?id=t13
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS財經
 http://sc2022.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1,tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" group-title="台湾",中天亞洲台
-http://sc2022.stream-link.org/tv2306.php?id=t15
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS亞洲台
 http://sc2022.stream-link.org/tv2306.php?id=t16
 #EXTINF:-1,tvg-id="民視HD" tvg-name="民視HD" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="台湾",民視HD
