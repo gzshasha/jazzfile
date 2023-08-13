@@ -1,8 +1,8 @@
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-1
+#EXTINF:-1,tvg-id="广东体育高清" tvg-name="广东体育高清" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-1
 https://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-2
+#EXTINF:-1,tvg-id="广东体育高清" tvg-name="广东体育高清" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-2
 http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-3
+#EXTINF:-1,tvg-id="广东体育高清" tvg-name="广东体育高清" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-3
 http://r.jdshipin.com/LiYdg
 
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.xyz/pp.xml,https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml,https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/guide.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
