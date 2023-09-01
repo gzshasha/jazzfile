@@ -8,3 +8,6 @@ rtmp://9sv2.mine.nu/sat/md051
 rtmp://9sv2.mine.nu/sat/md051
 #EXTINF:-1,tvg-name="广东体育" tvg-country="廣東" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="運動",广东体育
 ttps://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
+
+#EXTINF:-1,tvg-name="有线18" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="運動",有线18
+rtmp://fsv4.yj011.net/sat/hk021
