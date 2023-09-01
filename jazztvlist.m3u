@@ -12,5 +12,5 @@ http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 http://r.jdshipin.com/LiYdg
 
 #EXTM3U
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
-http://yydns.us59.aihost9.top/ddns.php?id=13
+#EXTINF:-1,tvg-id="有线18台" tvg-name="有线18台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
+rtmp://fsv4.yj011.net/sat/hk021
