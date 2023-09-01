@@ -11,10 +11,9 @@ http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-3
 http://r.jdshipin.com/LiYdg
 
-#EXTINF:-1,tvg-id="有线18台" tvg-name="有线18台" tvg-logo="https://epg.112114.xyz/logo/有线18台.png" group-title="香港",有线18台
+#EXTINF:-1,tvg-id="有线18台" tvg-name="有线18台" tvg-logo="https://epg.112114.xyz/logo/有线18台.png"" group-title="香港",有线18台
 rtmp://fsv4.yj011.net/sat/hk021
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 https://cntv.sbs/tv?auth=230830&id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
