@@ -394,6 +394,75 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001023/1.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001129/1.m3u8
 
 #EXTM3U
+#EXTINF:-1,tvg-id="有线18台" tvg-name="有线18台" tvg-logo="https://epg.112114.xyz/logo/有线18台.png" group-title="香港",有线18台
+http://yydns.us59.aihost9.top/ddns.php?id=18
+#EXTM3U
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻台
+http://yydns.us59.aihost9.top/ddns.php?id=13
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="香港",无线财经台
+http://yydns.us59.aihost9.top/ddns.php?id=14
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
+http://yydns.us59.aihost9.top/ddns.php?id=2
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
+http://yydns.us59.aihost9.top/ddns.php?id=3
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港",TVB J2
+http://yydns.us59.aihost9.top/ddns.php?id=5
+#EXTINF:-1,tvg-id="HOY资讯台" tvg-name="HOY资讯台" tvg-logo="https://epg.112114.xyz/logo/HOY资讯台.png" group-title="香港",HOY资讯台
+http://yydns.us59.aihost9.top/ddns.php?id=15
+#EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="香港",now新闻台
+http://yydns.us59.aihost9.top/ddns.php?id=21
+#EXTINF:-1,tvg-id="now体育台" tvg-name="now体育台" tvg-logo="https://epg.112114.xyz/logo/NOW体育台.png" group-title="香港",now体育台
+http://yydns.us59.aihost9.top/ddns.php?id=22
+#EXTINF:-1,tvg-id="now体育 7" tvg-name="now体育 7" tvg-logo="https://epg.112114.xyz/logo/NOW体育7.png" group-title="香港",now体育 7
+http://yydns.us59.aihost9.top/ddns.php?id=197
+#EXTINF:-1,tvg-id="now SportsPrime" tvg-name="now SportsPrime" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="香港",now SportsPrime
+http://yydns.us59.aihost9.top/ddns.php?id=194
+#EXTINF:-1,tvg-id="now golf 2" tvg-name="now golf 2" tvg-logo="https://epg.112114.xyz/logo/NOWGOLF2.png" group-title="香港",now golf 2
+http://yydns.us59.aihost9.top/ddns.php?id=28
+#EXTINF:-1,tvg-id="now golf 3" tvg-name="now golf 3" tvg-logo="https://epg.112114.xyz/logo/NOWGOLF3.png" group-title="香港",now golf 3
+http://yydns.us59.aihost9.top/ddns.php?id=195
+#EXTINF:-1,tvg-id="NOW财经台" tvg-name="NOW财经台" tvg-logo="https://epg.112114.xyz/logo/NOW财经台.png" group-title="香港",now财经台
+http://yydns.us59.aihost9.top/ddns.php?id=23
+#EXTINF:-1,tvg-id="NOW直播台" tvg-name="NOW直播台" tvg-logo="https://epg.112114.xyz/logo/NOW直播台.png" group-title="香港",now直播台
+http://yydns.us59.aihost9.top/ddns.php?id=27
+#EXTINF:-1,tvg-id="now星影台" tvg-name="now星影台" tvg-logo="https://epg.112114.xyz/logo/NOW星影台.png" group-title="香港",now星影台
+http://yydns.us59.aihost9.top/ddns.php?id=186
+#EXTINF:-1,tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="香港",now爆谷台
+http://yydns.us59.aihost9.top/ddns.php?id=187
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",viu
+http://yydns.us59.aihost9.top/ddns.php?id=193
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",viuTV
+http://yydns.us59.aihost9.top/ddns.php?id=19
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",viuTV6
+http://yydns.us59.aihost9.top/ddns.php?id=20
+#EXTINF:-1,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="香港",RTHK31
+http://yydns.us59.aihost9.top/ddns.php?id=29
+#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="香港",RTHK32
+http://yydns.us59.aihost9.top/ddns.php?id=30
+#EXTINF:-1,tvg-id="TVB功夫台" tvg-name="TVB功夫台" tvg-logo="https://epg.112114.xyz/logo/TVB功夫台.png" group-title="香港",TVB功夫台
+http://yydns.us59.aihost9.top/ddns.php?id=12
+#EXTINF:-1,tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://epg.112114.xyz/logo/TVB星河台.png" group-title="香港",TVB星河台
+http://yydns.us59.aihost9.top/ddns.php?id=4
+#EXTINF:-1,tvg-id="TVB经典台" tvg-name="TVB经典台" tvg-logo="https://epg.112114.xyz/logo/TVB经典台.png" group-title="香港",TVB经典台
+http://yydns.us59.aihost9.top/ddns.php?id=11
+#EXTINF:-1,tvg-id="TVB娱乐新闻" tvg-name="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻.png" group-title="香港",TVB娱乐新闻
+http://yydns.us59.aihost9.top/ddns.php?id=10
+#EXTINF:-1,tvg-id="TVB粤语片" tvg-name="TVB粤语片" tvg-logo="https://epg.112114.xyz/logo/TVB粤语片.png" group-title="香港",TVB粤语片
+http://yydns.us59.aihost9.top/ddns.php?id=6
+#EXTINF:-1,tvg-id="TVB亚洲剧" tvg-name="TVB亚洲剧" tvg-logo="https://epg.112114.xyz/logo/TVB亚洲剧.png" group-title="香港",TVB亚洲剧
+http://yydns.us59.aihost9.top/ddns.php?id=7
+#EXTINF:-1,tvg-id="TVB华语剧" tvg-name="TVB华语剧" tvg-logo="https://epg.112114.xyz/logo/TVB华语剧.png" group-title="香港",TVB华语剧
+http://yydns.us59.aihost9.top/ddns.php?id=8
+#EXTINF:-1,tvg-id="TVB娱乐台" tvg-name="TVB娱乐台" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐台.png" group-title="香港",TVB娱乐台
+http://yydns.us59.aihost9.top/ddns.php?id=24
+#EXTINF:-1,tvg-id="TVB戏曲台" tvg-name="TVB戏曲台" tvg-logo="https://epg.112114.xyz/logo/TVB戏曲台.png" group-title="香港",TVB戏曲台
+http://yydns.us59.aihost9.top/ddns.php?id=200
+#EXTINF:-1,tvg-id="TVB千禧经典" tvg-name="TVB千禧经典" tvg-logo="https://epg.112114.xyz/logo/TVB千禧经典.png" group-title="香港",TVB千禧经典
+http://yydns.us59.aihost9.top/ddns.php?id=198
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="香港",美亚电影台
+http://yydns.us59.aihost9.top/ddns.php?id=9
+#EXTINF:-1,tvg-id="香港动漫" tvg-name="香港动漫" tvg-logo="https://epg.112114.xyz/logo/香港动漫.png" group-title="香港",香港动漫
+http://yydns.us59.aihost9.top/ddns.php?id=25
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
@@ -422,8 +491,6 @@ http://183.129.242.178:3333/tsfile/live/1001_1.m3u8
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港台",翡翠台
 http://119.91.192.228/TVOD/88888888/gudou.php?id=1350_4500
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
-http://119.91.192.228/TVOD/88888888/gudou.php?id=1351_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港香港",明珠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="香港",星河频道
