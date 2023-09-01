@@ -1,3 +1,16 @@
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
+http://220.231.188.200:8089/hls/28/index.m3u8
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江 tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721131424130629_91.png"" group-title="广东",广东珠江广东珠江-1
+https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江 tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721131424130629_91.png"" group-title="广东",广东珠江广东珠江-2
+http://220.231.188.200:8089/hls/29/index.m3u8
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-1
+https://pi.0472.org/ds/gdtv.php?id=1413
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-2
+http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-3
+http://r.jdshipin.com/LiYdg
+
 #EXTM3U
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
 http://yydns.us59.aihost9.top/ddns.php?id=13
