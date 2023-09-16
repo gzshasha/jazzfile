@@ -65,7 +65,6 @@ https://hkdtmb.com/dtmb/99/index.m3u8?token=ffYy1QprtUXLKJW94OyOMA&expires=16949
 https://hkdtmb.com/dtmb/96/index.m3u8?token=EXzvdB1fLxmhtvIGl9FejA&expires=1694925272
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://hkdtmb.com/png_logo/ch332_160_115.png" group-title="香港",Now 新聞台
 https://hkdtmb.com/dtmb/332/index.m3u8?token=e3H32u3KGFN3rqwaMnQWfg&expires=1694925272
-
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 https://cntv.sbs/tv?auth=2309081833&id=cctv1
