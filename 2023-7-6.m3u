@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://epg.hkdtmb.com"
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
 http://220.231.188.200:8089/hls/28/index.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江 tvg-logo="https://epg.112114.xyz/logo/广东珠江.png"" group-title="广东",广东珠江-1
@@ -34,7 +35,6 @@ http://angtv.cc/jd/sz.php?id=gdws
 http://angtv.cc/jd/sz.php?id=gdxw
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
 http://angtv.cc/jd/sz.php?id=gdms
-#EXTM3U x-tvg-url="https://epg.hkdtmb.com"
 #EXTINF:-1,tvg-id="有线18台" tvg-name="有线18台" tvg-logo="https://epg.112114.xyz/logo/有线18台.png" group-title="香港",有线18台
 rtmp://fsv4.yj011.net/sat/hk021
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://hkdtmb.com/png_logo/31.png" group-title="香港",港台電視31
