@@ -7,6 +7,8 @@ https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 http://220.231.188.200:8089/hls/29/index.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江-3
 http://angtv.cc/jd/sz.php?id=gdzj
+#EXTINF:-1,tvg-id="广东岭南戏剧" tvg-name="广东岭南戏剧" tvg-logo="https://epg.112114.xyz/logo/广东岭南戏剧.png" group-title="广东",广东岭南戏剧
+http://1.65.195.85:9981/stream/channelid/1425740866?ticket=2ba311fb44a787329692ec3288d5ad46ea752a39&profile=pass
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-1
 https://pi.0472.org/ds/gdtv.php?id=1413
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-2
