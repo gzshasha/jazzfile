@@ -8,7 +8,7 @@ http://220.231.188.200:8089/hls/29/index.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江-3
 http://angtv.cc/jd/sz.php?id=gdzj
 #EXTINF:-1,tvg-id="广东岭南戏剧" tvg-name="广东岭南戏剧" tvg-logo="https://epg.112114.xyz/logo/广东岭南戏剧.png" group-title="广东",广东岭南戏剧
-https://tcdn.itouchtv.cn/live/lnxq.m3u8?t_token=eb67e80799b242a193a9034c88697033-IAcXFdKv5NY5y6xX3tlippGQD1Cft3ShSXbSCdItFC2PHEl9kr76aNth7AhpryxPtLs6gekeROGGA8sgJo2J19oqkWds5T2sInLV1haBhMC2GUeMfl2U3hi%2BawPbkjz5nYCdQPRTHnLmVWvUqacGZc4hD5en1s6pDWM%2FB5mKxZX6Qn03ra0QhU3SKHQQ7PaYWqgpzhCSEwAYoX25lly2kTInPsRdSA71nrgG1p1HhteHzxBI5oK53ECAYeK8RPclFhhWT0fGIfGhzEtoJIMrIgAmt%2B3ptMIAV5%2BXbSQBfkp2K8xrsT2r9IpnRxyA%2BH66G6kh94uzqGYyFnZ0iHflTV%2Fv5VHGqsHoXg7oA%2FBuw66KBv2QTf4wov9Rh2DbDPu0em5KBFUTENNy02wDpEfWNDTKW04p0yBhsix%2Byn5tqg3wPkIJjE4Htd7F3GE2H5zsmP2d%2FCDaysYPPhJp%2FilGmqK8mxPEe53AYZh3zXOT6yw%3D
+http://cloud.bytelife.top:4022/udp/239.77.0.16:5146
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-1
 https://pi.0472.org/ds/gdtv.php?id=1413
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="广东",广东体育-2
