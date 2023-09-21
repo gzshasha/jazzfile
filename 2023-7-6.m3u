@@ -37,34 +37,36 @@ http://angtv.cc/jd/sz.php?id=gdxw
 http://angtv.cc/jd/sz.php?id=gdms
 #EXTINF:-1,tvg-id="有线18台" tvg-name="有线18台" tvg-logo="https://epg.112114.xyz/logo/有线18台.png" group-title="香港",有线18台
 rtmp://fsv4.yj011.net/sat/hk021
+#EXTM3U x-tvg-url="https://epg.hkdtmb.com"
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://hkdtmb.com/png_logo/31.png" group-title="香港",港台電視31
-https://hkdtmb.com/dtmb/31/index.m3u8?token=G5AuXGivmmHB91n2G01Gbg&expires=1694925272
+https://hkdtmb.com/dtmb/31/index.m3u8?token=6F8Iw2N54MqQwz04oKOsGQ&expires=1695344191
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://hkdtmb.com/png_logo/32.png" group-title="香港",港台電視32
-https://hkdtmb.com/dtmb/32/index.m3u8?token=1cQ8KMyGDlqOSoBRDRAoNg&expires=1694925272
+https://hkdtmb.com/dtmb/32/index.m3u8?token=RFMmd9TUWvAuLed_5zSnmQ&expires=1695344191
 #EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://hkdtmb.com/png_logo/33.png" group-title="香港",港台電視33
-https://hkdtmb.com/dtmb/33/index.m3u8?token=x1XUELuuvCs_CMT94extwQ&expires=1694925272
+https://hkdtmb.com/dtmb/33/index.m3u8?token=3fXI3sOALFgZ7xr1FmeVKA&expires=1695344191
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://hkdtmb.com/png_logo/77.png" group-title="香港",HOY TV
-https://hkdtmb.com/dtmb/77/index.m3u8?token=fin0HuYTNrY5rBWBc7MQWg&expires=1694925272
+https://hkdtmb.com/dtmb/77/index.m3u8?token=_fB9l51iJ2eaTN794nMlcw&expires=1695344191
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://hkdtmb.com/png_logo/78.png" group-title="香港",HOY TV 資訊台
-https://hkdtmb.com/dtmb/78/index.m3u8?token=YGvgFk_U8XjdXTAk8ZCngQ&expires=1694925272
+https://hkdtmb.com/dtmb/78/index.m3u8?token=KGOwENbyXSPfs-OpjbNrRA&expires=1695344191
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://hkdtmb.com/png_logo/76.png" group-title="香港",香港國際財經台
-https://hkdtmb.com/dtmb/76/index.m3u8?token=4qUk8kq-T7CH1_J0shMShw&expires=1694925272
+https://hkdtmb.com/dtmb/76/index.m3u8?token=KxAE1vMfg7mdmU-oQb72mg&expires=1695344191
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台
-https://hkdtmb.com/dtmb/81/index.m3u8?token=HKnBISxziU4LBI6XsOKZ4g&expires=1694925272
+https://hkdtmb.com/dtmb/81/index.m3u8?token=HIuPI_L3XvgRuykhT3wRzw&expires=1695344191
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://hkdtmb.com/png_logo/82.png" group-title="香港",J2台
-https://hkdtmb.com/dtmb/82/index.m3u8?token=XJgA9h23gntqV-5AERM8gg&expires=1694925272
+https://hkdtmb.com/dtmb/82/index.m3u8?token=WHX5CsXSgDZKTUyGWvtuvQ&expires=1695344191
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://hkdtmb.com/png_logo/83.png" group-title="香港",無綫新聞台
-https://hkdtmb.com/dtmb/83/index.m3u8?token=E2f0_2XFhCXMhHQ70uqE_w&expires=1694925272
+https://hkdtmb.com/dtmb/83/index.m3u8?token=DOJpPPd15WRTjcbR8_9x_w&expires=1695344191
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://hkdtmb.com/png_logo/84.png" group-title="香港",明珠台
-https://hkdtmb.com/dtmb/84/index.m3u8?token=ITplsPK5QuAlSgT9oATGZA&expires=1694925272
+https://hkdtmb.com/dtmb/84/index.m3u8?token=B4uq5ZJnJtHm4_gVJA1jmg&expires=1695344191
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://hkdtmb.com/png_logo/85.png" group-title="香港",無綫財經·資訊台
-https://hkdtmb.com/dtmb/85/index.m3u8?token=putdIy9levMIoWHIAxKjhw&expires=1694925272
+https://hkdtmb.com/dtmb/85/index.m3u8?token=onAhaHP2NWPuhkZqGLsyig&expires=1695344191
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://hkdtmb.com/png_logo/99.png" group-title="香港",ViuTV
-https://hkdtmb.com/dtmb/99/index.m3u8?token=ffYy1QprtUXLKJW94OyOMA&expires=1694925272
+https://hkdtmb.com/dtmb/99/index.m3u8?token=I3cvI_oB8QS2BBDS_PPbkQ&expires=1695344191
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTVSix" tvg-logo="https://hkdtmb.com/png_logo/96.png" group-title="香港",ViuTVSix
-https://hkdtmb.com/dtmb/96/index.m3u8?token=EXzvdB1fLxmhtvIGl9FejA&expires=1694925272
+https://hkdtmb.com/dtmb/96/index.m3u8?token=WgJeu_my-mBf9b-v32YCCw&expires=1695344191
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://hkdtmb.com/png_logo/ch332_160_115.png" group-title="香港",Now 新聞台
-https://hkdtmb.com/dtmb/332/index.m3u8?token=e3H32u3KGFN3rqwaMnQWfg&expires=1694925272
+https://hkdtmb.com/dtmb/332/index.m3u8?token=-EXaD1OwBnf5dN4f9nLVjQ&expires=1695344191
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 https://cntv.sbs/tv?auth=230918&id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
@@ -307,21 +309,21 @@ https://cntv.sbs/tv?auth=230918&id=jkys
 https://cntv.sbs/tv?auth=230918&id=bbkt
 #EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="其他",宝宝动画
 https://cntv.sbs/tv?auth=230918&id=bbdh
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 https://cntv.sbs/tv/cbn.php?id=xfjcHD
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",翡翠台
 https://pi.0472.org/tv/fct.php?auth=230918
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="香港",明珠台
 https://pi.0472.org/tv/mzt.php?auth=230918
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳",澳视澳门
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="香港",澳视澳门
 https://pi.0472.org/tv/asam.php?auth=230918
-#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="港澳",澳亚卫视
+#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="香港,澳亚卫视
 https://pi.0472.org/tv/aoya.php?auth=230918
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳",香港卫视
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="香港",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳",莲花卫视
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="香港",莲花卫视
 https://cntv.sbs/tv/lhws.php
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN
 https://cntv.sbs/tv?auth=230918&id=cgtn
