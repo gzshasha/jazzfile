@@ -52,20 +52,24 @@ https://hkdtmb.com/dtmb/77/index.m3u8?token=_fB9l51iJ2eaTN794nMlcw&expires=16953
 https://hkdtmb.com/dtmb/78/index.m3u8?token=KGOwENbyXSPfs-OpjbNrRA&expires=1695344191
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://hkdtmb.com/png_logo/76.png" group-title="香港",香港國際財經台
 https://hkdtmb.com/dtmb/76/index.m3u8?token=KxAE1vMfg7mdmU-oQb72mg&expires=1695344191
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台
-https://hkdtmb.com/dtmb/81/index.m3u8?token=HIuPI_L3XvgRuykhT3wRzw&expires=1695344191
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台-1
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台-2
+http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://hkdtmb.com/png_logo/82.png" group-title="香港",J2台
-https://hkdtmb.com/dtmb/82/index.m3u8?token=WHX5CsXSgDZKTUyGWvtuvQ&expires=1695344191
+http://107.167.12.58:27347/livehttpplay?channel_id=20122
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://hkdtmb.com/png_logo/83.png" group-title="香港",無綫新聞台
-https://hkdtmb.com/dtmb/83/index.m3u8?token=DOJpPPd15WRTjcbR8_9x_w&expires=1695344191
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://hkdtmb.com/png_logo/84.png" group-title="香港",明珠台
-https://hkdtmb.com/dtmb/84/index.m3u8?token=B4uq5ZJnJtHm4_gVJA1jmg&expires=1695344191
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://hkdtmb.com/png_logo/85.png" group-title="香港",無綫財經·資訊台
-https://hkdtmb.com/dtmb/85/index.m3u8?token=onAhaHP2NWPuhkZqGLsyig&expires=1695344191
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://hkdtmb.com/png_logo/85.png" group-title="香港",無綫財經·資訊台-1
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://hkdtmb.com/png_logo/85.png" group-title="香港",無綫財經·資訊台-2
+http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://hkdtmb.com/png_logo/99.png" group-title="香港",ViuTV
-https://hkdtmb.com/dtmb/99/index.m3u8?token=I3cvI_oB8QS2BBDS_PPbkQ&expires=1695344191
+http://107.167.12.58:27347/livehttpplay?channel_id=30032
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTVSix" tvg-logo="https://hkdtmb.com/png_logo/96.png" group-title="香港",ViuTVSix
-https://hkdtmb.com/dtmb/96/index.m3u8?token=WgJeu_my-mBf9b-v32YCCw&expires=1695344191
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://hkdtmb.com/png_logo/ch332_160_115.png" group-title="香港",Now 新聞台
 https://hkdtmb.com/dtmb/332/index.m3u8?token=-EXaD1OwBnf5dN4f9nLVjQ&expires=1695344191
 
