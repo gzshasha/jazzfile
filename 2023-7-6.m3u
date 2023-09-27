@@ -40,12 +40,6 @@ http://angtv.cc/jd/sz.php?id=gdms
 #EXTINF:-1,tvg-id="有线18台" tvg-name="有线18台" tvg-logo="https://epg.112114.xyz/logo/有线18台.png" group-title="香港",有线18台
 rtmp://fsv4.yj011.net/sat/hk021
 #EXTM3U x-tvg-url="https://epg.hkdtmb.com"
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://hkdtmb.com/png_logo/31.png" group-title="香港",港台電視31
-https://hkdtmb.com/dtmb/31/index.m3u8?token=6F8Iw2N54MqQwz04oKOsGQ&expires=1695344191
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://hkdtmb.com/png_logo/32.png" group-title="香港",港台電視32
-https://hkdtmb.com/dtmb/32/index.m3u8?token=RFMmd9TUWvAuLed_5zSnmQ&expires=1695344191
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://hkdtmb.com/png_logo/33.png" group-title="香港",港台電視33
-https://hkdtmb.com/dtmb/33/index.m3u8?token=3fXI3sOALFgZ7xr1FmeVKA&expires=1695344191
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://hkdtmb.com/png_logo/77.png" group-title="香港",HOY TV
 https://hkdtmb.com/dtmb/77/index.m3u8?token=_fB9l51iJ2eaTN794nMlcw&expires=1695344191
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://hkdtmb.com/png_logo/78.png" group-title="香港",HOY TV 資訊台
@@ -61,7 +55,8 @@ http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/t
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://hkdtmb.com/png_logo/82.png" group-title="香港",J2台
 http://107.167.12.58:27347/livehttpplay?channel_id=20122
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://hkdtmb.com/png_logo/83.png" group-title="香港",無綫新聞台
-http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://hkdtmb.com/png_logo/84.png" group-title="香港",明珠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://hkdtmb.com/png_logo/85.png" group-title="香港",無綫財經·資訊台-1
