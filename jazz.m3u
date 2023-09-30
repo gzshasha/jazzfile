@@ -11,8 +11,8 @@ ttps://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4a
 #EXTM3U
 #EXTINF:-1,Now Sports 英超1台
 http://pull-ali.53site.com/live/c32b980091021e6df4d241d16b2f2cf6.m3u8
-#EXTINF:-1,Now Sports 英超2台http://pull-ali.53site.com/live/eaa7bc6464a42750c80049f17542762e.m3u8
-undefined
+#EXTINF:-1,Now Sports 英超2台
+http://pull-ali.53site.com/live/eaa7bc6464a42750c80049f17542762e.m3u8
 #EXTINF:-1,Now Sports 英超3台
 http://pull-ali.53site.com/live/307e0c1fcb3230af3e2a5186a3993a04.m3u8 
 #EXTINF:-1,Now Sports 英超4台
