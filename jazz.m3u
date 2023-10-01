@@ -8,16 +8,4 @@ rtmp://9sv2.mine.nu/sat/md051
 rtmp://9sv2.mine.nu/sat/md051
 #EXTINF:-1,tvg-name="广东体育" tvg-country="廣東" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721132503595817_75.png"" group-title="運動",广东体育
 ttps://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
-#EXTM3U
-#EXTINF:-1,Now Sports 英超1台
-http://pull-ali.53site.com/live/c32b980091021e6df4d241d16b2f2cf6.m3u8
-#EXTINF:-1,Now Sports 英超2台
-http://pull-ali.53site.com/live/eaa7bc6464a42750c80049f17542762e.m3u8
-#EXTINF:-1,Now Sports 英超3台
-http://pull-ali.53site.com/live/307e0c1fcb3230af3e2a5186a3993a04.m3u8 
-#EXTINF:-1,Now Sports 英超4台
-http://pull-ali.53site.com/live/ad2c794dc9a4b85096ac546dbfd5ca20.m3u8 
-#EXTINF:-1,Now Sports 英超5台
-http://pull-ali.53site.com/live/861d55ae6d180a05c5e96f28ae4db87a.m3u8 
-#EXTINF:-1,Now Sports 英超6台
-http://pull-ali.53site.com/live/5cd4c623c9d03e0ad1c98ed84b6fa936.m3u8
+
