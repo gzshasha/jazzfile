@@ -37,36 +37,34 @@ http://angtv.cc/jd/sz.php?id=gdws
 http://angtv.cc/jd/sz.php?id=gdxw
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
 http://angtv.cc/jd/sz.php?id=gdms
-#EXTINF:-1,tvg-id="有线18台" tvg-name="有线18台" tvg-logo="https://epg.112114.xyz/logo/有线18台.png" group-title="香港",有线18台
-rtmp://fsv4.yj011.net/sat/hk021
-#EXTM3U x-tvg-url="https://epg.hkdtmb.com"
+
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://hkdtmb.com/png_logo/77.png" group-title="香港",HOY TV
-https://hkdtmb.com/dtmb/77/index.m3u8?token=_fB9l51iJ2eaTN794nMlcw&expires=1695344191
+http://bziyunshao.synology.me:8891/bysid/77
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://hkdtmb.com/png_logo/78.png" group-title="香港",HOY TV 資訊台
-https://hkdtmb.com/dtmb/78/index.m3u8?token=KGOwENbyXSPfs-OpjbNrRA&expires=1695344191
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://hkdtmb.com/png_logo/76.png" group-title="香港",香港國際財經台
-https://hkdtmb.com/dtmb/76/index.m3u8?token=KxAE1vMfg7mdmU-oQb72mg&expires=1695344191
+http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台-1
-http://gg.gg/tvbfc
+http://bziyunshao.synology.me:8889/bysid/1
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台-2
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台-3
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://hkdtmb.com/png_logo/82.png" group-title="香港",J2台
-http://107.167.12.58:27347/livehttpplay?channel_id=20122
+http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://hkdtmb.com/png_logo/83.png" group-title="香港",無綫新聞台
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+http://bziyunshao.synology.me:8890/bysid/83
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://hkdtmb.com/png_logo/84.png" group-title="香港",明珠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+http://bziyunshao.synology.me:8890/bysid/2
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://hkdtmb.com/png_logo/85.png" group-title="香港",無綫財經·資訊台-1
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
+http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://hkdtmb.com/png_logo/85.png" group-title="香港",無綫財經·資訊台-2
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://hkdtmb.com/png_logo/99.png" group-title="香港",ViuTV
-http://107.167.12.58:27347/livehttpplay?channel_id=30032
+http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTVSix" tvg-logo="https://hkdtmb.com/png_logo/96.png" group-title="香港",ViuTVSix
-http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+http://bziyunshao.synology.me:8889/bysid/96
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://hkdtmb.com/png_logo/ch332_160_115.png" group-title="香港",Now 新聞台
 https://hkdtmb.com/dtmb/332/index.m3u8?token=-EXaD1OwBnf5dN4f9nLVjQ&expires=1695344191
 
