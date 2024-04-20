@@ -14,13 +14,12 @@ http://bziyunshao.synology.me:8889/bysid/96
 #EXTINF:-1,ViuTV
 http://bziyunshao.synology.me:8889/bysid/99
 #EXTM3U
-#EXTINF:-1,tvg-id="https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8" tvg-name="https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://DCGUG17VWPR.CLOUDFRONT.NET/CH1/LIVE3U8.png" group-title="其他",https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8
+#EXTINF:-1,tvg-id="HOY1台体育直播，https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8" tvg-name="HOY1台体育直播，https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8" tvg-logo="https://epg.112114.xyz/logo/HOY1台体育直播，HTTPS://DCGUG17VWPR.CLOUDFRONT.NET/CH1/LIVE3U8.png" group-title="其他",HOY1台体育直播，https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8
 undefined
-#EXTINF:-1,tvg-id="https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8" tvg-name="https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://HOYTVLIVESTREAM.HOY.TV/CH76/INDEX3U8.png" group-title="其他",https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1,tvg-id="HOY76 国际财经台，https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8" tvg-name="HOY76 国际财经台，https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8" tvg-logo="https://epg.112114.xyz/logo/HOY76国际财经台，HTTPS://HOYTVLIVESTREAM.HOY.TV/CH76/INDEX3U8.png" group-title="其他",HOY76 国际财经台，https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 undefined
-#EXTINF:-1,tvg-id="https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8" tvg-name="https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://HOYTVLIVESTREAM.HOY.TV/CH77/INDEX3U8.png" group-title="其他",https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1,tvg-id="HOY77 娱乐台，https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8" tvg-name="HOY77 娱乐台，https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8" tvg-logo="https://epg.112114.xyz/logo/HOY77娱乐台，HTTPS://HOYTVLIVESTREAM.HOY.TV/CH77/INDEX3U8.png" group-title="其他",HOY77 娱乐台，https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 undefined
-#EXTINF:-1,tvg-id="https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8" tvg-name="https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://HOYTVLIVESTREAM.HOY.TV/CH78/INDEX3U8.png" group-title="其他",https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1,tvg-id="HOY78资讯台，https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8" tvg-name="HOY78资讯台，https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8" tvg-logo="https://epg.112114.xyz/logo/HOY78资讯台，HTTPS://HOYTVLIVESTREAM.HOY.TV/CH78/INDEX3U8.png" group-title="其他",HOY78资讯台，https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 undefined
-
 
