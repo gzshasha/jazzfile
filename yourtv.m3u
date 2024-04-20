@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,HOY1台体育直播，https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8
-undefined
-#EXTINF:-1,HOY76 国际财经台，https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-undefined
-#EXTINF:-1,HOY77 娱乐台，https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-undefined
-#EXTINF:-1,HOY78资讯台，https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-undefined
+#EXTINF:-1,HOY1台体育直播
+https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8
+#EXTINF:-1,HOY76 国际财经台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1,HOY77 娱乐台
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1,HOY78资讯台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
