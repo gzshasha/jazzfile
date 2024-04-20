@@ -14,12 +14,5 @@ http://bziyunshao.synology.me:8889/bysid/96
 #EXTINF:-1,ViuTV
 http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1,HOYtv资讯
-http://bziyunshao.synology.me:8891/bysid/77
-#EXTINF:-1,HOYTV资讯
-http://bziyunshao.synology.me:8891/bysid/78
-#EXTINF:-1,RTHK31
-http://bziyunshao.synology.me:8892/bysid/31
-#EXTINF:-1,RTHK32
-http://bziyunshao.synology.me:8892/bysid/32
-#EXTINF:-1,香港國際財經台
-http://bziyunshao.synology.me:8891/bysid/76
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd-3-v-fhd.m3u8
+
